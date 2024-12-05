@@ -1,4 +1,3 @@
-/* eslint-disable import/no-anonymous-default-export */
 import email from '../assets/email.png';
 import mobile from '../assets/mobile.png';
 import html from '../assets/html.png';
