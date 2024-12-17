@@ -33,12 +33,12 @@ const Header = () => {
               </p>
               <h1 className="head-text">
                 {" "}
-                I'm <span>Shivam</span>
+                I'm <span>Shivam,</span>
                 <div className="waving-hand">
                   <div className="finger">👋</div>
                 </div>
               </h1>
-              <h1 className="head-text">Web Developer</h1>
+              <h1 className="head-text">a Software Developer</h1>
             </div>
           </div>
           <div className="tag-cmp app__flex">

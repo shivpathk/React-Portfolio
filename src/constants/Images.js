@@ -32,6 +32,7 @@ import textinger from '../assets/textinger.png'
 import bookstore from '../assets/bookstore.png'
 import anandians from '../assets/anandians.png'
 import bajrangai from '../assets/bajrangai.png'
+import tiffinghar from '../assets/tiffinghar.png'
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -74,6 +75,7 @@ export default {
   textinger,
   bookstore,
   bajrangai,
+  tiffinghar,
   anandians,
   jf,
   fc,

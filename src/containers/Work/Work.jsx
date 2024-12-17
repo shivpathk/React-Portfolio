@@ -18,6 +18,15 @@ const works = [
     tags:["Next Projects"]
   },
   {
+    title: "Tiffin Ghar",
+    description:
+    "Tiffin Ghar is a user-friendly website built with MERN stack and Tailwind. Designed with a responsive layout and smooth animations, with robust features like user authentication, secure payments, and real-time updates",
+    imgUrl: images.tiffinghar,
+    projectLink: "https://tiffinghar.onrender.com/",
+    codeLink:"https://github.com/shivpathk/TiffinManagment",
+    tags:["MERN Projects"]
+  },
+  {
     title: "Textinger Chat App",
     description:
       "This Realtime Chat Web Application is a drawing inspiration from popular platforms like WhatsApp. Developed with React, Redux, SCSS for frontend styling, and Firebase for backend services",

@@ -7,16 +7,16 @@ import { AppWrap,MotionWrap } from '../../Wrapper';
 
 const abouts = [
     {
-        title:'Web Design',description:'I am a web deginer with a passion for building beautiful web applications',imgUrl:images.about01
+        title:'Web Design',description:'I create modern and visually appealing web designs using tools like Figma and Adobe XD, focusing on intuitive user experiences, clean layouts, and responsive designs.',imgUrl:images.about01
     },
     {
-        title:'Frontend Developement',description:'I am a frontend developer with a passion for building beautiful web applications.',imgUrl:images.about02
+        title:'Frontend Developement',description:'I build interactive user interfaces with technologies like React, Next.js, Tailwind CSS, Bootstrap, and Vanilla CSS, ensuring that websites are fast, responsive, and visually engaging across all devices.',imgUrl:images.about02
     },
     {
-        title:'Backend Developement',description:'I am a backend developer with a passion for building beautiful web applications',imgUrl:images.about03
+        title:'Backend Developement',description:'I develop robust server-side applications using Node.js, Express, MongoDB, SQL, and other backend technologies, focusing on scalability, performance, and smooth data handling between the server and frontend.',imgUrl:images.about03
     },
     {
-        title:'Fullstack Developement',description:'I am a fullstack developer with a passion for building beautiful web applications',imgUrl:images.about04
+        title:'Fullstack Developement',description:' I specialize in both frontend and backend development, utilizing tools like React, Next.js, Node.js, Express, and MongoDB to create complete, full-fledged web applications with seamless user interfaces and efficient server-side architecture.',imgUrl:images.about04
     },
 ]
 
