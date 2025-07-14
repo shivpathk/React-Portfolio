@@ -36,15 +36,14 @@ const Navbar = () => {
             <div />
             <a href={`#${item}`}>{item}</a>
           </li>
-        ))}
+        ))} 
       </ul>
       <div className="app__navbar-menu">
         <HiMenuAlt4 onClick={() => setToggle(true)} />
-
         {toggle && (
           <motion.div
           variants={sliderLeft(true)}
-          initial="initial"
+          initial="initial" 
             whileInView="animate"
             transition={{ duration: 0.9, ease: 'easeOut' }}
             viewport={{once:true}}

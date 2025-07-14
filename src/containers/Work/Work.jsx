@@ -9,14 +9,70 @@ import "./Work.scss";
 
 const works = [
   {
-    title: "Bajrang AI",
-    description:
-    "BajrangAI is a powerful medical AI chatbot developed with Next.js, React, Tailwind CSS, OpenAI API, and Gemini API. It delivers expert medical knowledge and guidance, offering a reliable and responsive experience for users.",
-    imgUrl: images.bajrangai,
-    projectLink: "https://bajrangai.vercel.app/",
-    codeLink:"https://github.com/shivpathk/hanuman",
-    tags:["Next Projects"]
-  },
+  title: "Best Sketch Artist",
+  description:
+    "A creative, artistic web app built with the MERN stack for promoting hand-drawn custom sketch art. Includes SEO-focused blogs, admin controls, dynamic image galleries, and a fully responsive, modern UI.",
+  imgUrl: images.sketchartist,
+  projectLink: "https://best-sketch-artist.vercel.app/",
+  codeLink:"https://github.com/shivpathk",
+  tags:["MERN Projects"]
+},
+  {
+  title: "Hanuman Care Rail Ambulance",
+  description:
+    "A high-urgency medical transport service site built with Next.js. Designed for SEO and speed, it features responsive design, optimized content delivery, and trust-driven UI elements for fast conversions and better reach across India.",
+  imgUrl: images.railambulance,
+  projectLink: "https://www.railambulance.co.in/",
+  codeLink:"https://github.com/shivpathk", // github profile link used
+  tags:["Next Projects"]
+},
+{
+  title: "Hanuman CRM",
+  description:
+    "An internal CRM dashboard crafted with MERN stack for Hanuman Care. It supports role-based access, real-time tracking, analytics, and powerful admin tools to manage leads, operations, and ambulance deployment effectively.",
+  imgUrl: images.hanumancrm,
+  projectLink: "https://hanuman-crm.vercel.app/",
+  codeLink:"https://github.com/shivpathk",
+  tags:["MERN Projects"]
+},
+{
+  title: "Hanuman Care",
+  description:
+    "Official website of Hanuman Care – an emergency ambulance and healthcare service provider. Built with Next.js to ensure lightning-fast load times, modern UI/UX, and SEO-first approach for local and national reach.",
+  imgUrl: images.hanumancare,
+  projectLink: "http://hanumancare.com/",
+  codeLink:"https://github.com/shivpathk",
+  tags:["Next Projects"]
+},
+
+{
+  title: "Dr. Niraj Jha – Personal Website",
+  description:
+    "A sleek, personal portfolio site for Dr. Niraj Jha designed using Next.js. Optimized for professional branding, fast load, and SEO, this website showcases Dr. Niraj’s expertise, achievements, and services in a polished interface.",
+  imgUrl: images.drnirajjha,
+  projectLink: "https://www.drnirajjha.in/",
+  codeLink:"https://github.com/shivpathk",
+  tags:["Next Projects"]
+},
+{
+  title: "Lakshay Enterprises",
+  description:
+    "Corporate website for Lakshay Enterprises developed with Next.js. It includes service showcases, contact forms, and business-oriented UI tailored for industrial and solar solutions, with SEO-friendly architecture.",
+  imgUrl: images.lakshay,
+  projectLink: "https://enterpriseslakshay.com",
+  codeLink:"https://github.com/shivpathk",
+  tags:["Next Projects"]
+},
+
+{
+  title: "Yatri Restro",
+  description:
+    "Restaurant website designed using the MERN stack. Clean UI, mobile-first responsiveness, food category filters, image galleries, and reservation-friendly structure – all packed for a delightful user experience.",
+  imgUrl: images.yatri,
+  projectLink: "https://www.yatrirestro.com/",
+  codeLink:"https://github.com/shivpathk",
+  tags:["MERN Projects"]
+},
   {
     title: "Tiffin Ghar",
     description:
@@ -69,7 +125,7 @@ const works = [
     imgUrl: images.fc,
     projectLink: "https://flipkart-shivpathk.vercel.app/",
     codeLink:"https://github.com/shivpathk/Flipkart-Clone-MERN-stack",
-    tags:["MERN Project"]
+    tags:["MERN Projects"]
   },
   {
     title: "Amazon Clone",
@@ -88,15 +144,6 @@ const works = [
     projectLink: "https://weather-shivpathk.vercel.app/",
     codeLink:"https://github.com/shivpathk/weather-checker",
     tags:['Next Projects']
-  },
-  {
-    title: "Sketch Artist Deepak",
-    description:
-    "This is a react frontend web application which has very beautiful design and animation and It is also fully responsive. The moto of creating this is site is to help one of my very talented artist",
-    imgUrl: images.deepak_art,
-    projectLink: "https://deepakat1.netlify.app/",
-    codeLink:"https://github.com/shivpathk/deepak_artist_website",
-    tags:["React Projects"]
   },
   {
     title: "Tic Tac Toe Game",

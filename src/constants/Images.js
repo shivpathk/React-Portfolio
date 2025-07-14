@@ -18,20 +18,23 @@ import mysql from '../assets/mysql.png';
 import c from '../assets/c.png';
 import java from '../assets/java.png';
 import api from '../assets/api.png';
-import glp from '../assets/glp.png';
-import deepak_art from '../assets/deepak_art.png';
+
+import lakshay from '../assets/lakshay.png';
+import sketchartist from '../assets/sketchartist.png';
+import railambulance from '../assets/railambulance.png';
+import drnirajjha from '../assets/drnirajjha.png';
+import hanumancare from '../assets/hanumancare.png';
+import hanumancrm from '../assets/hanumancrm.png';
+import yatri from '../assets/yatri.png';
 import news_today from '../assets/news_today.png';
-import jf from '../assets/jf.png';
 import fc from '../assets/fc.png';
 import ttt from '../assets/ttt.png';
 import weather from '../assets/weather.png';
 import tdl from '../assets/tdl.png';
-import olx from '../assets/olx.png';
 import amzn from '../assets/amzn.png'
 import textinger from '../assets/textinger.png'
 import bookstore from '../assets/bookstore.png'
 import anandians from '../assets/anandians.png'
-import bajrangai from '../assets/bajrangai.png'
 import tiffinghar from '../assets/tiffinghar.png'
 
 import about01 from '../assets/about01.png';
@@ -69,17 +72,24 @@ import cv from '../assets/shivam_cv.pdf'
 
 export default {
   email,
-  glp,
-  deepak_art,
+
+  lakshay,
+  sketchartist,
+  railambulance,
+  drnirajjha,
+  hanumancare,
+  hanumancrm,
+  yatri,
   news_today,
   textinger,
   bookstore,
-  bajrangai,
   tiffinghar,
   anandians,
-  jf,
   fc,
   ttt,
+  weather,
+  tdl,
+
   bootstrap,
   tailwind,
   express,
@@ -87,9 +97,6 @@ export default {
   mysql,
   c,
   java,
-  weather,
-  tdl,
-  olx,
   amzn,
   mobile,
   api,
